@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "react": "18.2.0",
-    "browserlist": "1.0.1"
+    "browserlist": "1.0.1",
+    "angular-calendar": "0.31.0"
   }
 }
