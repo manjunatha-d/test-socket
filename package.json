@@ -9,6 +9,7 @@
   "author": "Manjunatha D",
   "license": "MIT",
    "dependencies": {
+     "browserlist": "1.0.1",
     "@apollo/client": "^3.6.3",
     "@babel/runtime": "^7.20.13",
     "@emotion/babel-plugin": "^11.10.5",
